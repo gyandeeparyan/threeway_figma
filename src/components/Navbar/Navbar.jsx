@@ -28,7 +28,7 @@ const Navbar = () => {
      </Link> 
 
      <Link to={'/signup'}>
-     <Button text={"SIGN UP"} className={"ml-1 px-[14px] text-[14px] py-2 bg-brand-white text-brand-coal"} />
+     <Button text={"SIGN UP"} className={"ml-1 px-[14px] text-[14px] py-2 bg-brand-white text-brand-coal"} textColor="text-brand-coal" />
      </Link>
       
       </div>
