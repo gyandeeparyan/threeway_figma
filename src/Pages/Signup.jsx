@@ -24,7 +24,7 @@ const Signup = () => {
         <input
           type='email'
           placeholder='umartinez@gmail.com'
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
         />
 
         <label
@@ -36,7 +36,7 @@ const Signup = () => {
           type='password'
           placeholder='••••••••••'
 
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-2 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-2 border-brand-gray-muted rounded-md'
         />
         <p className='w-[400px]  h-[50px] mt-2 ml-[200px] text-brand-gray-muted  '>
           Password must be at least 8 characters long.
@@ -50,7 +50,7 @@ const Signup = () => {
         <input
           type='password'
           placeholder='••••••••••'
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
         />
 
         <p className='w-[400px]  h-[50px] mt-2 ml-[220px] text-brand-gray-muted  '>

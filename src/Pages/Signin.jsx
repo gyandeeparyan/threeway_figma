@@ -40,8 +40,8 @@ const Signin = () => {
         </label>
         <input
           type='text'
-          placeholder='umartinez@gmail.com'
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
+          
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
         />
 
         <label
@@ -53,7 +53,7 @@ const Signin = () => {
           type='text'
           
 
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-2 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-2 border-brand-gray-muted rounded-md'
         />
        
         <label
@@ -64,7 +64,7 @@ const Signin = () => {
         <input
           type='email'
         
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
         />
 
 <label
@@ -75,23 +75,23 @@ const Signin = () => {
         <input
           type='number'
         
-          className='w-[400px] placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[50px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
         />
         
         <label
           htmlFor='remarks'
-          className='mt-8 ml-[200px] text-brand-gray-muted '>
+          className='mt-8 ml-[200px] px-4 text-brand-gray-muted '>
           Remarks
         </label>
         <input
           type='text'
         
-          className='w-[400px] placeholder:px-4 h-[150px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
+          className='w-[400px] px-4 placeholder:px-4 h-[150px] mt-2 ml-[200px] border-2 mb-5 border-brand-gray-muted rounded-md'
         />
 
         <Button
           className={
-            "px-4 py-2 w-[60%] bg-brand-yellow-muted mt-2 mb-2 ml-[210px] text-brand-coal"
+            "px-4 py-2 px-4 w-[60%] bg-brand-yellow-muted mt-2 mb-2 ml-[210px] text-brand-coal"
           }
           text='SUBMIT'
           textColor='text-brand-coal'

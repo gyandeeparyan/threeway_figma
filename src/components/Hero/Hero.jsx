@@ -38,10 +38,10 @@ const Hero = () => {
         />
       </div>
       {/* TEXT CONTENT */}
-      <div className="absolute z-[20] mt-[180px] right-[120px] ">
-       <h1 className="text-6xl font-bold font-sans text-brand-coal">{hero?.title}</h1>
+      <div className="absolute z-[20] mt-[180px] right-[75px] ">
+       <h1 className="text-6xl font-bold font-Oswald text-brand-coal">{hero?.title}</h1>
        
-       <h1 className=" text-6xl font-bold font-sans text-brand-coal inline mr-2">{hero?.titleSecond}</h1><span className="text-3xl text-brand-white">{hero?.subtitle}</span>
+       <h1 className=" text-6xl font-bold font-Oswald text-brand-coal inline mr-2">{hero?.titleSecond}</h1><span className="text-3xl text-brand-white">{hero?.subtitle}</span>
       <br />
        
       </div>

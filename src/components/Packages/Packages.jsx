@@ -3,8 +3,8 @@ import { packages } from '../../utils/constants';
 import Button from '../Button';
 const Packages = () => {
   return <div className='container absolute left-[175px] z-[20] top-[1500px]'>
-<h1 className="font-bold ml-1 text-brand-white text-5xl">DEATOX</h1>
-<h1 className=" text-brand-yellow-primary text-5xl">PACKAGE</h1>
+<h1 className="font-bold ml-1 font-Oswald text-brand-white text-5xl">DEATOX</h1>
+<h1 className=" text-brand-yellow-primary font-oswa text-5xl">PACKAGE</h1>
 
 <div className='flex '>
 <div className="bg-brand-yellow-primary w-[260px] mt-8 -left-[25px] h-[420px] absolute z-[20]">

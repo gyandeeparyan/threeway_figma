@@ -15,7 +15,10 @@ export default {
         "brand-circle-yellow":"#FFE15D66",
         " " : " "
       },
-      fontFamily: {},
+      fontFamily: {
+        Oswald: ['Oswald', 'sans-serif'],
+        OpenSans: ["OpenSans", "sans-serif"],
+      },
     },
   },
   plugins: [],
